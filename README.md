@@ -35,6 +35,7 @@ além de autenticação e autorização usando Spring Security e JWT. </h4>
 ### Autenticação 
 - **POST/auth/login**
 - Faz login e retorna um token JWT para autenticação.
+
 ![Imagem autenticação ](/assets/autenticacao.png)
 
 ### Tópicos

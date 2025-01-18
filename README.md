@@ -40,7 +40,6 @@ além de autenticação e autorização usando Spring Security e JWT. </h4>
 
 ### Tópicos
 ![Imagem tópicos ](/assets/topicos.png)
-- GET/api/topicos
 
 
 ## Contato

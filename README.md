@@ -7,7 +7,7 @@ além de autenticação e autorização usando Spring Security e JWT. </h4>
 
 <p align="center">Challenge Alura + Oracle - ONE</p>
 <p align="center">
-<img alt="Badge do projeto" src="./assets/" width="50%">
+<img alt="Badge do projeto" src="./assets/badgeForumHub.png" width="50%">
 </p>
 
 

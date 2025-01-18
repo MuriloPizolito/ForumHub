@@ -2,6 +2,7 @@ package br.com.alura.ForumHub.controller;
 
 import br.com.alura.ForumHub.domain.topico.*;
 import br.com.alura.ForumHub.repository.TopicoRepository;
+import io.swagger.v3.oas.annotations.security.SecurityRequirement;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
@@ -16,6 +17,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/topicos")
+@SecurityRequirement(name = "bearer-key")
 public class TopicosController {
 
     @Autowired

@@ -29,6 +29,17 @@ além de autenticação e autorização usando Spring Security e JWT. </h4>
 - **JWT (JSON Web Token):** Para gerenciamento de sessões e autenticação segura.
 - **MySql** - Banco de dados relacional usado para persistência dos dados.
 - **Maven** - Para gerenciamento de dependências e automação de build.
+- **Swagger:** Ferramenta usada para explorar todos os endpoints da API, e disponibilizar uma documentação interativa e acessível da API REST.
+
+## Endpoints 
+### Autenticação 
+- **POST/auth/login**
+- Faz login e retorna um token JWT para autenticação.
+![Imagem autenticação ](/assets/autenticacao.png)
+
+### Tópicos
+![Imagem tópicos ](/assets/topicos.png)
+
 
 ## Contato
 - murilopizolito@gmail.com
